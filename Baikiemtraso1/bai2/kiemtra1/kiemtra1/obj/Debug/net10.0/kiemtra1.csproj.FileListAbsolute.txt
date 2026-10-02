@@ -1,0 +1,15 @@
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\bin\Debug\net10.0\kiemtra1.exe
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\bin\Debug\net10.0\kiemtra1.deps.json
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\bin\Debug\net10.0\kiemtra1.runtimeconfig.json
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\bin\Debug\net10.0\kiemtra1.dll
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\bin\Debug\net10.0\kiemtra1.pdb
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.AssemblyInfoInputs.cache
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.AssemblyInfo.cs
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.csproj.CoreCompileInputs.cache
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.sourcelink.json
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.dll
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\refint\kiemtra1.dll
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.pdb
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\kiemtra1.genruntimeconfig.cache
+E:\Nam3ky1\lập trình net - báo cáo\kiemtra1\kiemtra1\obj\Debug\net10.0\ref\kiemtra1.dll
