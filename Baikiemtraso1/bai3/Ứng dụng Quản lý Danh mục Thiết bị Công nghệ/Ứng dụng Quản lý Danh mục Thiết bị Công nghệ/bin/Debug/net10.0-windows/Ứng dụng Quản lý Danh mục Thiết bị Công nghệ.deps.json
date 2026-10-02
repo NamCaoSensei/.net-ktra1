@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ứng dụng Quản lý Danh mục Thiết bị Công nghệ/1.0.0": {
+        "runtime": {
+          "Ứng dụng Quản lý Danh mục Thiết bị Công nghệ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ứng dụng Quản lý Danh mục Thiết bị Công nghệ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
